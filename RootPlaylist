@@ -1,0 +1,30 @@
+{
+"name": "Test X",
+"author": "Test X",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://pastebin.com/VZPtJvt9",
+"groups": [
+ 
+{
+"name": "av-th",
+"image": "https://i0.wp.com/www.av-th.net/wp-content/uploads/2020/06/logo11.png",
+"url": "https://pastebin.com/9rqMFRaE",
+"import": false
+},	
+ 
+{
+"name": "avgle",
+"image": "https://avgle.com/images/logo/logo.png",
+"url": "https://pastebin.com/uY15Z3vu",
+"import": false
+},	
+ 
+{
+"name": "testM3u",
+"image": "https://avgle.com/images/logo/logo.png",
+"url": "https://pastebin.com/UhxFmsFK",
+"import": false
+},
+ 
+]
+}

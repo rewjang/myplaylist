@@ -1,7 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.javbus.com/thumb/7xg6.jpg" group-title="test group" ,Tsubaki Sannomiya
+#EXTINF:-1 tvg-logo="https://pics.javbus.com/thumb/7xg6.jpg" group-title="test" ,SSNI-913
 https://opjav.com/movie/SSNI-913-61821/watch-movie.html
 
-#EXTINF:-1 tvg-logo="https://pics.javbus.com/thumb/7xib.jpg" group-title="test group" ,Tsubaki Sannomiya
+#EXTINF:-1 tvg-logo="https://pics.javbus.com/thumb/7xib.jpg" group-title="test" ,RBD-995
 https://opjav.com/movie/RBD-995-61820/watch-movie.html
+
+#EXTINF:-1 tvg-logo="https://pics.javbus.com/thumb/7xg6.jpg" group-title="test2" ,SSNI-913
+https://opjav.com/movie/SSNI-913-61821/watch-movie.html
+
+#EXTINF:-1 tvg-logo="https://pics.javbus.com/thumb/7xib.jpg" group-title="test2" ,RBD-995
+https://opjav.com/movie/RBD-995-61820/watch-movie.html
+

@@ -26,5 +26,13 @@
 "import": false
 },
  
+{
+"name": "MYHDJAV",
+"image": "https://myhdjav.net/img/logo-light.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/myhdjavh/root-myhdjav",
+"import": false
+}, 
+ 
+ 
 ]
 }

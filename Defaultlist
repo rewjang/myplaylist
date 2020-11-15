@@ -89,6 +89,92 @@
              "url": "https://cdn.livedoomovies.com/playlist/d7963e2b5ab68a4d8fa273f361cc2310/1605399215860.m3u8"
             }
 ]
+},
+{
+"name": "Her Private Life (TH)",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+"stations": [
+            {
+             "name": "EP1",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/dcb03356c106f68da25c6f7176102ac8/1605399446389.m3u8"
+            },
+            {
+             "name": "EP2",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/635678decff0cd1ee20c51e0f200c488/1605399480307.m3u8"
+            },
+            {
+             "name": "EP3",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/b57fdbebf0305c40a7cbfcc9fc3e8ec7/1605399504488.m3u8"
+            },
+            {
+             "name": "EP4",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/9673963a8c7a6389f1ba6bad25923285/1605399535109.m3u8"
+            },
+            {
+             "name": "EP5",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/50402b0e7fc3ca519758f4d27e829557/1605399563726.m3u8"
+            },
+            {
+             "name": "EP6",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/4b2e11b8e6d570de0520d2556d34c662/1605399591457.m3u8"
+            },
+            {
+             "name": "EP7",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/cfb6406ea4513f77bbf164251f0af9f9/1605399617846.m3u8"
+            },
+            {
+             "name": "EP8",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/8fa67bdb8c755235391adb9383d52eb8/1605399643018.m3u8"
+            },
+            {
+             "name": "EP9",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/7fa061c1059637de7d66e866920966b5/1605399671682.m3u8"
+            },
+            {
+             "name": "EP10",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/7ea9b5e779b1ca44d3522b5a920a2f99/1605399715502.m3u8"
+            },
+            {
+             "name": "EP11",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/f087df7ba27ca8103ff104536be5aee7/1605399742885.m3u8"
+            },
+            {
+             "name": "EP12",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/645d683af156c226cbedd74f9e0e65c2/1605399766833.m3u8"
+            },
+            {
+             "name": "EP13",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/636626812c6742d8efe036fb61421387/1605399792319.m3u8"
+            },
+            {
+             "name": "EP14",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/966918560d3314a37df21c5609a505cb/1605399821691.m3u8"
+            },
+            {
+             "name": "EP15",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/11c5271e9dae8307977cbb6c453c6678/1605399842873.m3u8"
+            },
+            {
+             "name": "EP16",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/e5e2b70d10417cc7e3eb08390aa17801/1605399866736.m3u8"
+            }
+]
 }
  
 ]

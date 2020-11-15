@@ -5,6 +5,17 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/Defaultlist",
 "groups": [
 {
+"name": "Private Lives (2020) (SUB)",
+"image": "https://www.doomovie-hd.com/assets/movie_poster/2/23b6b77816575e760b1be0a09dfb563b.jpg",
+"stations": [
+            {
+             "name": "EP1",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/2/23b6b77816575e760b1be0a09dfb563b.jpg",
+             "url": "https://www.doomovie-hd.com/?r=movie_view&id=23236&disc=1"
+            }
+]
+},
+{
 "name": "Her Private Life (SUB)",
 "image": "https://www.doomovie-hd.com/assets/movie_poster/4/46a96b0752eb9e481f95183065df3f30.jpg",
 "stations": [

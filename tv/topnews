@@ -1,1 +1,20 @@
-
+{
+"name": "REW TV",
+"author": "R Playlist",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/Defaultlist",
+"groups": [
+{
+"name": "TV ",
+"image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",
+"stations": [
+            {
+             "name": "TOPNEWS",
+             "image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.webp",
+             "url": "https://live.topnews.co.th/hls/topnews.m3u8"
+            }
+]
+},
+ 
+]
+}

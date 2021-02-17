@@ -4,24 +4,18 @@
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/tv/topnews",
 "stations": [
+{
+"name": "Topnews",
+"image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",              
+"url": "https://www.topnews.co.th/",
+"referer": "https://www.topnews.co.th/",
+"playInNatPlayer": "true"
+},
             {
 "name": "ททบ.5",  
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
 "url": "https://www.we-play.tv/watching/tv/ch5-hd",
 "referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ททบ.5 สำรอง 1",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ททบ.5 สำรอง 2",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",  
-"url": "https://www.adintrend.tv/hd/m/ch5",
 "playInNatPlayer": "true"
 },
 {
@@ -32,43 +26,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "NBT สำรอง 1",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
-"url": "https://www.adintrend.tv/hd/m/ch11",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBT สำรอง 2",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",  
-"url": "https://www.doofree88.com/live/nbt",
-"playInNatPlayer": "true"
-},
-{
 "name": "TPBS",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",  
 "url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 },
 {
-"name": "TPBS สำรอง 1",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",  
-"url": "https://we-play.tv/watching/tv/thai-pbs",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "TPBS สำรอง 2",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",  
-"url": "https://program.thaipbs.or.th/live"
-},
-{
 "name": "ALTV by Thaipbs",  
 "image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
 "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
-},
-{
-"name": "ALTV by Thaipbs สำรอง",  
-"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",  
-"url": "https://www.altv.tv/live"
 },
 {
 "name": "TPTV",
@@ -80,12 +45,6 @@
 "name": "TNN",
 "image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
 "url": "https://www.tnnthailand.com/live",
-"playInNatPlayer": "true"
-},
-{
-"name": "TNN สำรอง 1",
-"image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
-"url": "https://www.doofree88.com/live/tnn24",
 "playInNatPlayer": "true"
 },
 {
@@ -105,20 +64,6 @@
 "image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
 "url": "https://www.fwiptv.cc/player_demo.php?channel=27159",
 "referer": "https://www.fwiptv.cc/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Workpoint สำรอง 1",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Workpoint สำรอง 2",
-"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
-"url": "https://we-play.tv/watching/tv/workpoint",
-"referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
@@ -359,16 +304,6 @@
 "referer": "http://news1.live14.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
-{
-"name": "Topnews",
-"image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",              
-"url": "https://www.topnews.co.th/",
-"referer": "https://www.topnews.co.th/",
-"playInNatPlayer": "true"
-},
-
-
-
 {
 "name": "MVTV FIVE",
 "image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/MVTV-FIVE.png",

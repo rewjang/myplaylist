@@ -14,6 +14,7 @@
              "name": "EP1",
              "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",
              "url": "https://www.123-hd.com/dark-hole",
+             "userAgent": "exoplayer_video",
              "playInNatPlayer": "true"
             },
             

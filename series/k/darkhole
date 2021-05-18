@@ -1,0 +1,33 @@
+{
+"name": "Dark Hole",
+"author": "R Playlist",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/darkhole",
+
+"groups": [
+
+{
+"name": "Dark Hole",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"stations": [
+            {
+             "name": "Gantz:0",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/1/16cf7c3ff35ced4452fe6b27cf65baa4.jpg",
+             "url": "https://cdn.livedoomovies.com/hls/b6bece5f7314710c42e5e26b517953c6/b6bece5f7314710c42e5e26b517953c6.m3u8"
+            },
+            
+            {
+             "name": "EP13",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/636626812c6742d8efe036fb61421387/1605399792319.m3u8"
+            },
+            {
+             "name": "EP14",
+             "image": "https://www.doomovie-hd.com/assets/movie_poster/7/79915e472fce8e396e708906e7cdf848.jpg",
+             "url": "https://cdn.livedoomovies.com/playlist/966918560d3314a37df21c5609a505cb/1605399821691.m3u8"
+            },
+]
+},
+
+]
+}

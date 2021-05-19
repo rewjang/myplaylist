@@ -1,13 +1,5 @@
 {
 "name": "Dark Hole",
-"author": "R Playlist",
-"image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",
-"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/darkhole",
-
-"groups": [
-
-{
-"name": "Dark Hole",
 "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",
 "stations": [
                  
@@ -95,8 +87,5 @@
              "playInNatPlayer": "true"
             },
             
-]
-},
-
 ]
 }

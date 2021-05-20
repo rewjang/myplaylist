@@ -1,6 +1,6 @@
 {
 "name": "series",
-"author": "R Playlist",
+"author": "Series",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/series",
 
@@ -10,6 +10,13 @@
 "name": "Kseries",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/kseries",
+"import": false
+},
+
+{
+"name": "CHseries",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/chseries",
 "import": false
 },
 

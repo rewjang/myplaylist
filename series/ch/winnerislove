@@ -1,15 +1,13 @@
 {
    "name": "ไฟผลาญจันทร์",
    "image": "https://www.123-hd.com/wp-content/uploads/2020/05/And-The-Winner-Is-Love-300x450.png",
-   "stations": 
-   [
+   "stations": [
      { 
        "name": "EP1",
        "image": "https://www.123-hd.com/wp-content/uploads/2020/05/And-The-Winner-Is-Love-300x450.png", 
        "url": "https://dood.to/e/709qj6yh7l4e",
        "playInNatPlayer": "true" 
       }, 
-
 
     ]
 }

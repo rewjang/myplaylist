@@ -5,6 +5,11 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+              {
+             "name": "Black Widow แบล็ค วิโดว์",
+             "image": "https://we-play.live/uploads/posters/black-widow-2021-poster-.jpg",
+             "url": "https://we-play.live/watching/movie/black-widow-2021"
+            },
             {
              "name": "Dawn of the Dead รุ่งอรุณแห่งความตาย",
              "image": "https://we-play.live/uploads/posters/dawn-of-the-dead-poster-1602425931.jpeg",

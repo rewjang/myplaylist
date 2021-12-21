@@ -13,6 +13,13 @@
 },
 
 {
+"name": "Movies",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
+"import": false
+},
+
+{
 "name": "Private Lives (2020) (SUB)",
 "image": "https://www.123-hd.com/wp-content/uploads/2020/10/Private-Lives-2020-%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%97-%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C-300x450.png",
 "stations": [

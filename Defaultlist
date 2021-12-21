@@ -4,6 +4,12 @@
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/Defaultlist",
 "groups": [
+{
+"name": "Anime",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/anime",
+"import": false
+},
 
 {
 "name": "Series",

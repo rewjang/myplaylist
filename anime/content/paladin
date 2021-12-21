@@ -1,1 +1,84 @@
-Saihate no Paladin พาลาดิน ยอดอัศวินจากแดนไกล
+{
+"name": "Saihate no Paladin พาลาดิน ยอดอัศวินจากแดนไกล",
+"image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/178896/saihate-no-paladin-1.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP2",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/179104/saihate-no-paladin-2.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP3",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/179459/saihate-no-paladin-3.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/179628/saihate-no-paladin-4.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/179812/saihate-no-paladin-5.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/179997/saihate-no-paladin-6.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP7",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/180168/saihate-no-paladin-7.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP7.5",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/180398/saihate-no-paladin-75.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP8",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/180603/saihate-no-paladin-8.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP9",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/180905/saihate-no-paladin-9.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP10",
+             "image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+             "url": "https://www.anime-sugoi.com/play/181089/saihate-no-paladin-10.html",
+             "playInNatPlayer": "true"
+            },
+     
+]
+}

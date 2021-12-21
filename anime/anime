@@ -1,0 +1,17 @@
+{
+"name": "Anime",
+"author": "R Playlist",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/anime",
+
+"groups": [
+
+{
+"name": "Saihate no Paladin พาลาดิน ยอดอัศวินจากแดนไกล",
+"image": "https://www.anime-sugoi.com/upload/ef0f24e11fb5699c9e5436b38632c5a7.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/paladin",
+"import": false
+},
+
+]
+}

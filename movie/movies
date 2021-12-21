@@ -5,6 +5,11 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+            {
+             "name": "EP1",
+             "image": "https://www.kserietv.com/wp-content/uploads/2020/09/Alice3-1024x725.jpg",
+             "url": "https://www.kserietv.com/clip/273680/"
+            }
 ]
 
 }

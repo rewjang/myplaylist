@@ -16,6 +16,13 @@
 			    "subtitle": "https://s2.avthstream1.xyz/cdn/down/6f51688baeec1109b5bd5ae548776280/thumbnails.vtt"
 			    "playInNatPlayer": "true"
 			},
+			 {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://vk.com/doc452882829_619328784",
+             "referer": "https://www.anime-sugoi.com/play/179952/5.html",
+             "playInNatPlayer": "true"
+            },
 			 
   ]
  }

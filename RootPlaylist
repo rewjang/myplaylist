@@ -4,6 +4,13 @@
 "image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/RootPlaylist",
 "groups": [
+
+{
+"name": "supjav",
+"image": "https://supjav.com/img/logo.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/supjab/supjav",
+"import": false
+},	
  
 {
 "name": "av-th",

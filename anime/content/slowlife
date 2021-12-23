@@ -5,9 +5,15 @@
                  
             {
              "name": "EP1",
-             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
-             "url": "https://vk.com/doc452882829_616913936",
-             "referer": "https://www.anime-sugoi.com/play/179378/1.html",
+             "image": "https://www.anime-sugoi.com/upload/74346163fb9a1c141b7053532a10631f.jpg",
+             "url": "https://www.anime-sugoi.com/play/178829/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-1.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP2",
+             "image": "https://www.anime-sugoi.com/upload/74346163fb9a1c141b7053532a10631f.jpg",
+             "url": "https://www.anime-sugoi.com/play/178984/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-2.html",
              "playInNatPlayer": "true"
             },
            

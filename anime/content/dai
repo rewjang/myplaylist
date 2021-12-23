@@ -6,15 +6,22 @@
             {
              "name": "EP1",
              "image": "https://www.anime-sugoi.com/upload/a74516da90b2865cfafbc6593dab5b8b.jpg",
-             "url": "https://mewplayer.com/v/kd1pmh3w32jx-4w",
-             "embed": "true",
+             "url": "https://www.123-hd.com/dragon-quest-2020-ep-1",
              "playInNatPlayer": "true"
             },
             
             {
              "name": "EP2",
              "image": "https://www.anime-sugoi.com/upload/a74516da90b2865cfafbc6593dab5b8b.jpg",
-             "url": "https://mewplayer.com/v/g3dpgh-wzr4md1l",
+             "url": "https://www.123-hd.com/dragon-quest-2020-ep-2",
+             "embed": "true",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://www.anime-sugoi.com/upload/a74516da90b2865cfafbc6593dab5b8b.jpg",
+             "url": "https://www.123-hd.com/dragon-quest-2020-ep-3",
              "embed": "true",
              "playInNatPlayer": "true"
             },

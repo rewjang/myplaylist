@@ -1,1 +1,42 @@
-
+{
+"name": "TWICE REALITY "TIME TO TWICE" - Noraebang Battle "",
+"image": "https://i.ytimg.com/vi/5l6qWsVGWy8/maxresdefault.jpg",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/5l6qWsVGWy8/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=5l6qWsVGWy8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/5l6qWsVGWy8/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=eLiL8k4hnJM",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/5l6qWsVGWy8/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=S3Yq4z_n2-Y",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://i.ytimg.com/vi/5l6qWsVGWy8/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=T5nxRmps9kw",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "BONUS",
+             "image": "https://i.ytimg.com/vi/5l6qWsVGWy8/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=iLBWWsglXZQ",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

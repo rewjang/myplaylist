@@ -1,0 +1,56 @@
+{
+"name": "TWICE REALITY “TIME TO TWICE” Crime Scene Season 1",
+"image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=eZtB1PJ1Dtc",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=eZtB1PJ1Dtc",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=MHNthD09BOQ",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=oBjtlQ9Vciw",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=tg2QbvLqJwU",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=gsl98YBaAAI",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://i.ytimg.com/vi/WhwHdZwTIlw/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=EeYz1zJlDeE",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

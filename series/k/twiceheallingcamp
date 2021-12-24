@@ -1,1 +1,42 @@
-
+{
+"name": "TWICE REALITY “TIME TO TWICE” Healing Camping",
+"image": "https://i.ytimg.com/vi/PS5rtWdxn3A/maxresdefault.jpg",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/PS5rtWdxn3A/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=766ZjNMMIZA",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/civscM36oB4/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=nSYmNkCnqrY",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/civscM36oB4/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=C18-HZDpimw",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://i.ytimg.com/vi/civscM36oB4/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=p0hGwe5WDfU",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://i.ytimg.com/vi/civscM36oB4/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=vaghTg4Cpls",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

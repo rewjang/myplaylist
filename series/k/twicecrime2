@@ -2,7 +2,28 @@
 "name": "TWICE REALITY “TIME TO TWICE” Crime Scene Season 2",
 "image": "https://i.ytimg.com/vi/M2fDbYeYHtE/maxresdefault.jpg",
 "stations": [
-                 
+            
+            {
+             "name": "EP1",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",
+             "url": "https://www.youtube.com/watch?v=M2fDbYeYHtE",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP2",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",
+             "url": "https://www.youtube.com/watch?v=5tjeHv9jW5w",
+             "playInNatPlayer": "true"
+            },
+             
+             {
+             "name": "EP3",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",
+             "url": "https://www.youtube.com/watch?v=dIDrN5TyJdM",
+             "playInNatPlayer": "true"
+            }, 
+             
             {
              "name": "EP4",
              "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Dark-Hole-2021-300x450.png",

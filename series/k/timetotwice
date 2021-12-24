@@ -1,1 +1,41 @@
-
+{
+"name": "TWICE REALITY "TIME TO TWICE"",
+"image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=00nzEtZ3aeM",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=JxvfoF2B9VA",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=Bu4t5joR-kA",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP4",
+             "image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=xtKehMjStow",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "BONUS",
+             "image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=zGbelCov3fA",
+             "playInNatPlayer": "true"
+            },
+            ]
+}

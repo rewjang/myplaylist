@@ -1,1 +1,50 @@
-
+{
+"name": "TWICE REALITY “TIME TO TWICE” TDOONG High School",
+"image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=P1LFWVEGpSk",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=e0bBkeZHFuI",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=UEPTZwViWIc",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=wy_Q6swTzMk",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=ol7ubQnFAW8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://i.ytimg.com/vi/P1LFWVEGpSk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=EbK11sbp2FQ",
+             "playInNatPlayer": "true"
+            },
+            
+            
+            ]
+}

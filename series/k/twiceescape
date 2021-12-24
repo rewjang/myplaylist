@@ -1,14 +1,36 @@
 {
-"name": "TWICE REALITY “TIME TO TWICE”",
-"image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+"name": "TWICE REALITY “TIME TO TWICE” THE GREAT ESCAPE",
+"image": "https://i.ytimg.com/vi/1LkGBM7pfWs/maxresdefault.jpg",
 "stations": [
             
             {
              "name": "EP1",
-             "image": "https://i.ytimg.com/vi/7RIbfPbxu8M/maxresdefault.jpg",
+             "image": "https://i.ytimg.com/vi/1LkGBM7pfWs/maxresdefault.jpg",
              "url": "https://www.youtube.com/watch?v=V3vSR6Ax3oE",
              "playInNatPlayer": "true"
             },
+            
+              {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/1LkGBM7pfWs/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=IxNJxts_F2Q",
+             "playInNatPlayer": "true"
+            },
+            
+              {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/1LkGBM7pfWs/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=2LVaTwub7PQ",
+             "playInNatPlayer": "true"
+            },
+            
+              {
+             "name": "BONUS",
+             "image": "https://i.ytimg.com/vi/1LkGBM7pfWs/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=_Qnb1LTMusI",
+             "playInNatPlayer": "true"
+            },
+ 
             
             ]
  }

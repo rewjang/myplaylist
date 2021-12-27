@@ -5,6 +5,14 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/RootPlaylist",
 "groups": [
 
+
+{
+"name": "avsubthai.me",
+"image": "https://avsubthai.me/avsubthai.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/AV/avsubthai",
+"import": false
+},	
+
 {
 "name": "supjav",
 "image": "https://supjav.com/img/logo.png",

@@ -3,12 +3,19 @@
 	"image": "https://supjav.com/img/logo.png",
 	"stations": [
 	
-	
+				
 			
 			{
-			    "name": "WAAA-058 ถุงยางขาด…เลยปาดจนเสร็จ Mei Satsuki",  
+			    "name": "WAAA-058 ถุงยางขาด…เลยปาดจนเสร็จ Mei Satsuki SUB TH",  
 			    "image": "https://pics.dmm.co.jp/digital/video/waaa00058/waaa00058ps.jpg",  
 			    "url": "https://cdn5.cdn9x.com/b8521t5s/index.m3u8",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "WAAA-077 เพื่อนร่วมงานแสนดี Kasumi Tsukino SUB TH",  
+			    "image": "https://pics.dmm.co.jp/digital/video/waaa00077/waaa00077ps.jpg",  
+			    "url": "https://proxy1-cdn5.cdn9x.com/l3no80sd/index.m3u8",
 			    "playInNatPlayer": "true"
 			},
 			

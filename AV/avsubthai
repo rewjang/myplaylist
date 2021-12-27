@@ -126,10 +126,26 @@
 			},
 			
 			{
-			    "name": "SSNI-879 Hotel หงี่เกินเบรค ขอเสกดอทิพย์ SUB TH",  
+			    "name": "SSNI-879 Hotel หงี่เกินเบรค ขอเสกดอทิพย์ Tsukasa Aoi Minami Kojima SUB TH",  
 			    "image": "https://pics.dmm.co.jp/digital/video/ssni00879/ssni00879ps.jpg",  
 			    "url": "https://proxy1-cdn3.cdn9x.com/km3ks5p8/index.m3u8",
 			    "referer": "https://avsubthai.me/4551",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "SSIS-001 3 Days เก็บงานคู่ไอ้จู๋ลักกี้ Tsukasa Aoi Sayaka Otoshiro SUB TH",  
+			    "image": "https://pics.dmm.co.jp/digital/video/ssis00001/ssis00001ps.jpg",  
+			    "url": "https://cdn5.cdn9x.com/trl83n56/index.m3u8",
+			    "referer": "https://avsubthai.me/4507",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "SSNI-987 ร้อนสุดคาว ฤทธิ์สาวบ้านนอก Tsukasa Aoi SUB TH",  
+			    "image": "https://pics.dmm.co.jp/digital/video/ssni00987/ssni00987ps.jpg",  
+			    "url": "https://proxy1-cdn4.cdn9x.com/0dtmn0cb/index.m3u8",
+			    "referer": "https://avsubthai.me/4473",
 			    "playInNatPlayer": "true"
 			},
 

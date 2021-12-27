@@ -118,10 +118,18 @@
 			},
 			
 			{
-			    "name": "IPX-714 รื้อฟื้นความหลังคลั่งรักครูสาว SUB TH",  
+			    "name": "IPX-714 รื้อฟื้นความหลังคลั่งรักครูสาว Minami Aizawa SUB TH",  
 			    "image": "https://pics.dmm.co.jp/digital/video/ipx00714/ipx00714ps.jpg",  
 			    "url": "https://cdn5.cdn9x.com/3osjs71c/index.m3u8",
 			    "referer": "https://avsubthai.me/5229",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "SSNI-879 Hotel หงี่เกินเบรค ขอเสกดอทิพย์ SUB TH",  
+			    "image": "https://pics.dmm.co.jp/digital/video/ssni00879/ssni00879ps.jpg",  
+			    "url": "https://proxy1-cdn3.cdn9x.com/km3ks5p8/index.m3u8",
+			    "referer": "https://avsubthai.me/4551",
 			    "playInNatPlayer": "true"
 			},
 

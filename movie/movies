@@ -5,6 +5,13 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+
+              {
+             "name": "The New Mutants (2020) มิวแทนท์รุ่นใหม่",
+             "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-New-Mutants-2020-300x450.png",
+             "url": "https://www.123-hd.com/the-new-mutants"
+            },
+            
             {
              "name": "No Time to Die (2021) 007 พยัคฆ์ร้ายฝ่าเวลามรณะ",
              "image": "https://037moviefree.com/wp-content/uploads/2021/11/IM9O0EUNb6pcurJmUNWduwwIxUcFqm1-211x300.jpg",

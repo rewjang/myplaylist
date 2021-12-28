@@ -5,7 +5,14 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
-            
+              
+              
+               {
+             "name": "THE DRAGON TAMER (2021) ตำนานวีรบุรุษยิงอินทรี ตอน สิบแปดฝามือพิชิตมังกร",
+             "image": "https://www.youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/73ebb4e7848b221114e3f3074459cc44.jpg",
+             "url": "https://www.youflix4k.com/player/m/3646/the-dragon-tamer-2021-tamnaanwiirburusying-inthrii-t-n-sibaepdfaamuue-phichitmangkr/23908.html"
+            },
+              
              {
              "name": "Fear Street Part 3 1666 (2021) ถนนอาถรรพ์ ภาค 3",
              "image": "https://037moviefree.com/wp-content/uploads/2021/08/8Mcpl8RWLJrf2tjeXWWIxRFpLW0WfSj-211x300.jpg",

@@ -1,1 +1,50 @@
-
+{
+"name": "Hawkeye (2021)",
+"image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/US/hawkeye",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+             "url": "https://www.123-hd.com/hawkeye",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+             "url": "https://www.123-hd.com/hawkeye-ep-2",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+             "url": "https://www.123-hd.com/hawkeye-ep-3",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+             "url": "https://www.123-hd.com/hawkeye-ep-4",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+             "url": "https://www.123-hd.com/hawkeye-ep-5",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Hawkeye-2021-300x450.png",
+             "url": "https://www.123-hd.com/hawkeye-ep-6",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

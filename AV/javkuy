@@ -3,7 +3,16 @@
 "image": "http://javkuy.com/wp-content/uploads/2021/02/logoH-1.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/AV/javkuy",
 "stations": [
-		
+			
+			
+			{
+			    "name": "SSIS-133 เมาแล้วเนียนเวียนทั้งแผนก Miru Sakamichi Sub TH",  
+			    "image": "https://javkuy.com/wp-content/uploads/2021/07/SSIS-133.jpg",  
+			    "url": "https://javkuy.com/subthai-ssis-133/",
+			    "subtitle": "https://pastebin.com/88n8Z2TP",
+			    "playInNatPlayer": "true"
+			},
+			
 			{
 			    "name": "SSIS-032 รู้เมื่อสายเจ้านายแอบแซ่บ Tsubaki Sannomiya Sub TH",  
 			    "image": "http://javkuy.com/wp-content/uploads/2021/04/SSIS-032.jpg",  

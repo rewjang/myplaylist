@@ -190,9 +190,17 @@
 			
 			{
 			    "name": "SSNI-827 ไก่อ่อนร้อนรัก Tsukasa Aoi SUB TH",  
-			    "image": "https://avsubthai.me/wp-content/uploads/2020/08/9ssni827pl.jpg",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2019/12/ssni619pl.jpg",  
 			    "url": "https://proxy1-cdn2.cdn9x.com/4080npmk/index.m3u8",
 			    "referer": "https://avsubthai.me/3641",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "SSNI-619 เจ๊ดจะย่อง เข้าร่องปราบกะจั๊ว Tsukasa Aoi SUB TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2020/08/9ssni827pl.jpg",  
+			    "url": "https://proxy1-cdn2.cdn9x.com/hg4tv849/index.m3u8",
+			    "referer": "https://avsubthai.me/2404",
 			    "playInNatPlayer": "true"
 			},
 			
@@ -329,6 +337,14 @@
 			    "image": "https://avsubthai.me/wp-content/uploads/2020/03/1sdde547pl.jpg",  
 			    "url": "https://proxy1-cdn2.cdn9x.com/lcqn8abe/index.m3u8",
 			    "referer": "https://avsubthai.me/2915",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "HND-760 แค้นเท่าบ้านเดี๋ยวร่านให้ดู Akari Mitani SUB TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2019/12/hnd760pl.jpg",  
+			    "url": "https://proxy1-cdn2.cdn9x.com/81k4ic48/index.m3u8",
+			    "referer": "https://avsubthai.me/2421",
 			    "playInNatPlayer": "true"
 			},
 			

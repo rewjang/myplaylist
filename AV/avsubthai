@@ -2,7 +2,15 @@
 	"name": "avsubthai.me",
 	"image": "https://avsubthai.me/avsubthai.png",
 	"stations": [
-		
+			
+			{
+			    "name": "MIMK-067 นึกว่าใส ที่แท้ใจขาวขุ่น SUB TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2019/11/mimk067pl.jpg",  
+			    "url": "https://proxy1-cdn2.cdn9x.com/54d03lk3/index.m3u8",
+			    "referer": "https://avsubthai.me/2271",
+			    "playInNatPlayer": "true"
+			},
+			
 			{
 			    "name": "WANZ-837 น้องพี่ปี้กับมั้ย Akari Mitani SUB TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/01/wanz837pl.jpg",  

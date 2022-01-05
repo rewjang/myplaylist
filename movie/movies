@@ -5,6 +5,11 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+              {
+             "name": "The Core (2003) ผ่านรกใจกลางโลก",
+             "image": "https://037moviefree.com/wp-content/uploads/2021/08/qWukcf9jjF36UUCXnCsvzAWRPxzweWs-214x300.jpg",
+             "url": "https://037moviefree.com/movie/the-core-2003-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%81%e0%b9%83%e0%b8%88%e0%b8%81%e0%b8%a5%e0%b8%b2%e0%b8%87%e0%b9%82%e0%b8%a5%e0%b8%81/"
+              }, 
               
              {
                "name": "Gantz O (2016) กันสึ โอ",

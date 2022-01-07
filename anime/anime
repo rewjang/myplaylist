@@ -7,6 +7,13 @@
 "groups": [
 
 {
+"name": "Saiyuki Reload Zeroin ไซยูกิ สี่แสบฝ่าแดนทมิฬ",
+"image": "https://www.anime-sugoi.com/upload/9e3c64fe6c689aa09e8bc06c2d0f51a7.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/saiyuki",
+"import": false
+},
+
+{
 "name": "Orient 2 สิงห์ พลิกตำนานพิฆาตอสูร",
 "image": "https://www.anime-sugoi.com/upload/bb85271d09d47d56cbc00d61a0bdf7c4.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/orient",

@@ -1,0 +1,14 @@
+{
+"name": "TWICE REALITY “TIME TO TWICE” TWICE New Year 2022",
+"image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=96eldR2DdQk",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

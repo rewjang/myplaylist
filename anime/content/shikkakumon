@@ -1,1 +1,15 @@
-
+{
+"name": "Shikkakumon no Saikyou Kenja ปราชญ์เทพเกิดใหม่ไปเป็นตราไร้ค่า",
+"image": "https://www.anime-sugoi.com/upload/d9bcf8a172e17f5728c0687cf35e8d39.jpg",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.anime-sugoi.com/upload/d9bcf8a172e17f5728c0687cf35e8d39.jpg",
+             "url": "https://ok.ru/video/3161221958172",
+             "referer": "https://www.anime-sugoi.com/play/181402/1.html",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

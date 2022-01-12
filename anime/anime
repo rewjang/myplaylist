@@ -7,6 +7,13 @@
 "groups": [
 
 {
+"name": "Kenja no Deshi wo Nanoru Kenja ฉันเป็นศิษย์จอมปราชญ์จริงๆ นะ",
+"image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/nanorukenja",
+"import": false
+},
+
+{
 "name": "Saiyuki Reload Zeroin ไซยูกิ สี่แสบฝ่าแดนทมิฬ",
 "image": "https://www.anime-sugoi.com/upload/9e3c64fe6c689aa09e8bc06c2d0f51a7.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/saiyuki",

@@ -1,0 +1,64 @@
+{
+"name": "Ousama Ranking อันดับพระราชา",
+"image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/65996/t-nthii-1-793/52618.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP2",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/65997/t-nthii-2-784/52620.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/65998/t-nthii-3-778/52622.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/65999/t-nthii-4-772/52624.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/66000/t-nthii-5-765/52626.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/66001/t-nthii-6-730/52628.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP7",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/66002/t-nthii-7-727/52630.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP8",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://youflix4k.com/player/e/66003/t-nthii-8-718/52632.html",
+             "playInNatPlayer": "true"
+            },
+            
+        
+]
+}

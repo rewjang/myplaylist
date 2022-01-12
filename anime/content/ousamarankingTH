@@ -69,6 +69,13 @@
             },
             
             {
+             "name": "EP9 สำรอง",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://aimianime.com/ousama-ranking-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2/ousama-ranking-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-9",
+             "playInNatPlayer": "true"
+            },
+            
+            {
              "name": "EP10",
              "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
              "url": "https://api.aniro.xyz/play/Thai%20Dub/2021/Ousama%20Ranking/010/720p.m3u8",
@@ -76,6 +83,12 @@
              "playInNatPlayer": "true"
             },
             
+             {
+             "name": "EP10 สำรอง",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://aimianime.com/ousama-ranking-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2/ousama-ranking-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-10",
+             "playInNatPlayer": "true"
+            },
         
 ]
 }

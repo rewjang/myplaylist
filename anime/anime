@@ -7,9 +7,16 @@
 "groups": [
 
 {
+"name": "Tensai Ouji no Akaji Kokka Saisei Jutsu บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน!",
+"image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/tensaiouji",
+"import": false
+},
+
+{
 "name": "Fantasy Bishoujo Juniku Ojisan to เกิดใหม่ต่างโลก เพื่อนผมน่ารักโฮกเลยครับ",
 "image": "https://www.anime-sugoi.com/upload/57fa9441bea107c6a4ce8fcb10631927.jpg",
-"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/fantasybishoujo ",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/fantasybishoujo",
 "import": false
 },
 

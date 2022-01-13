@@ -18,19 +18,13 @@
              "url": "https://we-play.live/watching/movie/chaos-walking-2021"
               }, 
               
-               {
-             "name": "Eternals ฮีโร่พลังเทพเจ้า",
-             "image": "https://cdn.majorcineplex.com/uploads/movie/2771/thumb_2771.jpg", 
-             "url": "https://we-play.live/watching/movie/eternals-2021",
-             "subtitle": "https://pastebin.com/t13qGdUf",
-             "playInNatPlayer": "true"
-              }, 
               
                {
              "name": "Eternals ฮีโร่พลังเทพเจ้า",
              "image": "https://cdn.majorcineplex.com/uploads/movie/2771/thumb_2771.jpg", 
              "url": "https://142-132-151-118.googlevideocdn.com/vod/movies/inter/content/Eternals.2021.mp4/playlist.m3u8?nimble_audio_index=0&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDg6NDU6NDAgQU0maGFzaF92YWx1ZT1uVTVUVGlPWkt1b1lpdVN3bzhwS1VRPT0mdmFsaWRtaW51dGVzPTIw",
              "subtitle": "https://pastebin.com/t13qGdUf",
+             "referer": "https://we-play.live/watching/movie/eternals-2021",
              "playInNatPlayer": "true"
               }, 
               

@@ -6,17 +6,23 @@
 
 "stations": [
               
+               {
+             "name": "No Time to Die 007 พยัคฆ์ร้ายฝ่าเวลามรณะ",
+             "image": "https://nungd24.com/wp-content/uploads/2021/09/No_Time_to_Die-525355918-large-650x964.jpg", 
+             "url": "https://we-play.live/watching/movie/no-time-to-die-2021",
+              }, 
+              
               {
              "name": "Chaos Walking จิตปฏิวัติโลก",
              "image": "https://i.ytimg.com/vi/UQye3raXTgk/maxresdefault.jpg", 
-             "url": "https://we-play.live/watching/movie/chaos-walking-2021",
-             "subtitle": "https://pastebin.com/raw/5p9xrWEU"
+             "url": "https://we-play.live/watching/movie/chaos-walking-2021"
               }, 
               
                {
              "name": "Eternals ฮีโร่พลังเทพเจ้า",
              "image": "https://cdn.majorcineplex.com/uploads/movie/2771/thumb_2771.jpg", 
-             "url": "https://we-play.live/watching/movie/eternals-2021"
+             "url": "https://we-play.live/watching/movie/eternals-2021",
+             "subtitle": "https://pastebin.com/raw/5p9xrWEU"
               }, 
               
                {

@@ -10,6 +10,13 @@
              "referer": "https://www.anime-sugoi.com/play/181355/1.html",
              "playInNatPlayer": "true"
             },
+            {
+             "name": "EP2",
+             "image": "https://www.anime-sugoi.com/upload/bb85271d09d47d56cbc00d61a0bdf7c4.jpg",
+             "url": "https://ok.ru/video/3170287749660",
+             "referer": "https://www.anime-sugoi.com/play/181501/2.html",
+             "playInNatPlayer": "true"
+            },
             
             ]
 }

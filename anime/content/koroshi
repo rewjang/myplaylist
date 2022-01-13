@@ -1,0 +1,18 @@
+{
+"name": "Koroshi Ai",
+"image": "https://www.anime-sugoi.com/upload/142ebd48ac5a724175dcc3a406534d8f.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/koroshi",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.anime-sugoi.com/upload/142ebd48ac5a724175dcc3a406534d8f.jpg",
+             "url": "https://ok.ru/video/3170287553052",
+             "referer": "https://www.anime-sugoi.com/play/181510/1.html",
+             "playInNatPlayer": "true"
+            },
+            
+         
+            
+            ]
+}

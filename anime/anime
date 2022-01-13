@@ -7,6 +7,13 @@
 "groups": [
 
 {
+"name": "Koroshi Ai",
+"image": "https://www.anime-sugoi.com/upload/142ebd48ac5a724175dcc3a406534d8f.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/koroshi",
+"import": false
+},
+
+{
 "name": "Shikkakumon no Saikyou Kenja ปราชญ์เทพเกิดใหม่ไปเป็นตราไร้ค่า",
 "image": "https://www.anime-sugoi.com/upload/d9bcf8a172e17f5728c0687cf35e8d39.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/shikkakumon",

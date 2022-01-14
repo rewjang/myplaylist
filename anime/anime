@@ -7,6 +7,13 @@
 "groups": [
 
 {
+"name": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+"image": "https://www.anime-sugoi.com/upload/57b9149c7420badfdb57af58eacea892.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/arifureta2",
+"import": false
+},
+
+{
 "name": "Koroshi Ai",
 "image": "https://www.anime-sugoi.com/upload/142ebd48ac5a724175dcc3a406534d8f.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/koroshi",

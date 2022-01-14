@@ -10,5 +10,12 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=hb-R4h9docA",
+             "playInNatPlayer": "true"
+            },            
+            
             ]
 }

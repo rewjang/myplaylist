@@ -1,0 +1,104 @@
+{
+"name": "JoJo 6",
+"image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/jojo6",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-movie.akaanime.com/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP01.mp4/index.m3u8?st=CQf5S6G40oW2GKLQHI49xA&e=1642208204&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP2",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP02.mp4/index.m3u8?st=tVVdiF9KPx9GGeLMaCAmcg&e=1642208584&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP3",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP03.mp4/index.m3u8?st=scBO_MSZrwKdz1LlMTcCdg&e=1642208660&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP4",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP04.mp4/index.m3u8?st=nu_GaBlhxebKzM5J5WPFFQ&e=1642208708&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP05.mp4/index.m3u8?st=_OgC5P7WxyukpxpLESTJqQ&e=1642208947&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP06.mp4/index.m3u8?st=It-URzr8IvMTk671g08Baw&e=1642209333&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP7",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP07.mp4/index.m3u8?st=X8XzYPEodnThWXuHFGDMdg&e=1642209378&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP8",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP08.mp4/index.m3u8?st=NG63ZokAb1ftjajF7lVjZA&e=1642209400&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP9",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP09.mp4/index.m3u8?st=q7U32R1i0SoTZTgsjpsr4w&e=1642209425&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP10",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP10.mp4/index.m3u8?st=8nq54-x_63JliByu7n8e9g&e=1642209448&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP11",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP11.mp4/index.m3u8?st=miFrfmhIr5FrW_lQDuKmMA&e=1642209477&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP12",
+             "image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+             "url": "https://cache-edge2.movieclubhd.tv/hls/content/nas05/mvc/C/JoJo_Bizarre_Adventure_S5/ST/EP12.mp4/index.m3u8?st=qO4r51Bp0pE6XChSawdzbw&e=1642209505&u=nungfree",
+             "referer": "https://akaanime.com/series/16994",
+             "playInNatPlayer": "true"
+            },
+            
+            ]       
+}

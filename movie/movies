@@ -5,7 +5,13 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
-              
+             
+             {
+             "name": "Spider-Man: Into the Spider-Verse สไปเดอร์-แมน: ผงาดสู่จักรวาล-แมงมุม",
+             "image": "https://we-play.live/uploads/posters/spider-man-into-the-spider-verse-poster-1602414654.jpeg", 
+             "url": "https://we-play.live/watching/movie/spiderman-into-the-spiderverse-2018"
+              }, 
+             
                {
              "name": "No Time to Die 007 พยัคฆ์ร้ายฝ่าเวลามรณะ",
              "image": "https://nungd24.com/wp-content/uploads/2021/09/No_Time_to_Die-525355918-large-650x964.jpg", 

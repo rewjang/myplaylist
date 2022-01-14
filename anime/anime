@@ -7,6 +7,20 @@
 "groups": [
 
 {
+"name": "JoJo 6 TH,
+"image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/jojo6th",
+"import": false
+},
+
+{
+"name": "JoJo 6",
+"image": "https://www.appdisqus.com/wp-content/uploads/2021/08/E8HKgjXWYAUEqjV.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/jojo6",
+"import": false
+},
+
+{
 "name": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
 "image": "https://www.anime-sugoi.com/upload/57b9149c7420badfdb57af58eacea892.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/arifureta2",

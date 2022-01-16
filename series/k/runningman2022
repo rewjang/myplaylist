@@ -51,18 +51,11 @@
              "image": "https://we-play.live/uploads/posters/running-man-poster1603072310.jpeg",
              "url": "https://we-play.live/watching/series/running-man-2010/season2022/ep587",
              "subtitle": "https://we-play.live/uploads/subtitle/1641798273.srt",
+             "hostParser": "web"
              "referer": "https://we-play.live/watching/series/running-man-2010/season2022/ep587",
              "playInNatPlayer": "true"
             },
-            
-             {
-             "name": "EP587 sub",
-             "image": "https://we-play.live/uploads/posters/running-man-poster1603072310.jpeg",
-             "url": "https://142-132-154-51.googlevideocdn.com/vod/series/korea/Running.Man/2022/587.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDk6MTI6MTAgQU0maGFzaF92YWx1ZT1ybXFnQThmaFJyVENjM3JMS1FxbDhnPT0mdmFsaWRtaW51dGVzPTIw",
-             "subtitle": "https://pastebin.com/zsXpT4gu",
-             "referer": "https://we-play.live/watching/series/running-man-2010/season2022/ep587",
-             "playInNatPlayer": "true"
-            },
+             
             
             ]
 }

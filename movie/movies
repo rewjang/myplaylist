@@ -6,6 +6,12 @@
 
 "stations": [
              
+             {
+             "name": "Doctor Strange (2016) จอมเวทย์มหากาฬ",
+             "image": "https://www.img08.xyz/assets/movie_poster/d/dfcb6b4f4d089cf112f99d7f312fda66.jpg", 
+             "url": "https://server38.oneplayer.online/hls/O0AcQWC/file_1080.mp4/index-v1-a1.m3u8"
+              }, 
+             
               {
              "name": "CAPTAIN MARVEL (2019) กัปตัน มาร์เวล",
              "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/e4c1a72e90c155d8feaf6057c535aedd.jpg", 

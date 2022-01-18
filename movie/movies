@@ -7,6 +7,24 @@
 "stations": [
              
              {
+             "name": "Teken 3 เทคเคน 3 ฅนคมล่าไม่ยั้ง 2014",
+             "image": "https://we-play.live/uploads/posters/taken-3-poster-1602412029.jpeg", 
+             "url": "https://we-play.live/watching/movie/taken-3-2014"
+              }, 
+             
+              {
+             "name": "Teken 2 เทคเคน 2 ฅนคม ล่าไม่ยั้ง 2012",
+             "image": "https://we-play.live/uploads/posters/taken-2-poster-1602411894.jpeg", 
+             "url": "https://we-play.live/watching/movie/taken-2-2012"
+              }, 
+             
+               {
+             "name": "Teken 1 เทคเคน สู้ไม่รู้จักตาย 2008",
+             "image": "https://we-play.live/uploads/posters/taken-poster-1602411774.jpeg", 
+             "url": "https://we-play.live/watching/movie/taken-2008"
+              }, 
+             
+             {
              "name": "Doctor Strange (2016) จอมเวทย์มหากาฬ",
              "image": "https://www.img08.xyz/assets/movie_poster/d/dfcb6b4f4d089cf112f99d7f312fda66.jpg", 
              "url": "https://server38.oneplayer.online/hls/O0AcQWC/file_1080.mp4/index-v1-a1.m3u8"

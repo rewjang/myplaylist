@@ -1,0 +1,79 @@
+{
+"name": "taken season1",
+"image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/US/taken1",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/S/EN/Taken_Season2-T/EP01.mp4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas06/mvc/S/EN/Taken_Season2-T/EP02.MP4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep03.MP4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep04.mp4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep05.MP4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep06.MP4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP7",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep07.MP4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP8",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep08.mp4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP9",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep09.mp4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP10",
+             "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/69fb9609edf6e51b38b9bfde94fee945.jpg",
+             "url": "https://cache-edge1.movieclubhd.tv/hls/content/nas02/mvc/s/en/Taken_Season1_T/ep10.mp4/index.m3u8",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}
+            

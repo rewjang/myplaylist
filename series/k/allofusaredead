@@ -1,0 +1,50 @@
+{
+"name": "ALL OF US ARE DEAD 2022",
+"image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/allofusaredead",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3728670132792",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3591931366101",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3313861528259",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3356655618811",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3345012951578",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3086565444321",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

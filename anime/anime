@@ -142,6 +142,16 @@
 ],
 
 "stations": [
+            {
+             "name": "อิโต้จุนจิ คอลเลคชั่น playlist",
+             "image": "https://i.ytimg.com/vi/wlcCEJod1SI/maxresdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhb9OsbuL2CHncsyGG5ELw3M"
+            }, 
             
+             {
+             "name": "หนอนหนังสือยึดอำนาจ playlist",
+             "image": "https://image.tmdb.org/t/p/original/l8rfP3i8q6hYrk4RcyFD4OgOay3.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhYbfdHIQGIHvuTjZGFBB_Ae"
+            }, 
             ]
 }

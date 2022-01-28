@@ -152,6 +152,13 @@
              "name": "หนอนหนังสือยึดอำนาจ playlist",
              "image": "https://image.tmdb.org/t/p/original/l8rfP3i8q6hYrk4RcyFD4OgOay3.jpg",
              "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhYbfdHIQGIHvuTjZGFBB_Ae"
+            },
+            
+            {
+             "name": "มิเอรุโกะจัง ใครว่าหนูเห็นผี playlist",
+             "image": "https://i.ytimg.com/vi/xZKSsTeZXKI/maxresdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhbOZd3C0Y2xhBMS0zH2jYOk"
             }, 
+            
             ]
 }

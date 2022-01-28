@@ -46,5 +46,19 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP7",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3190511766024",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP8",
+             "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",
+             "url": "https://ok.ru/video/3190512355848",
+             "playInNatPlayer": "true"
+            },
+            
             ]
 }

@@ -160,5 +160,29 @@
              "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhbOZd3C0Y2xhBMS0zH2jYOk"
             }, 
             
+            {
+             "name": "โจโจ้ ล่าข้ามศตวรรษ ภาคที่ 4 playlist",
+             "image": "https://i.ytimg.com/vi/GlGaL7Roy38/hqdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhbzFZmGsZjK1-MmEnS6IYSH"
+            },
+            
+            {
+             "name": "โจโจ้ ล่าข้ามศตวรรษ ภาคที่ 3 playlist",
+             "image": "https://i.ytimg.com/vi/hb0iFhiAT4E/hqdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhb8oBjVEEgZWge-V3ZDCx4p"
+            },
+            
+            {
+             "name": "โจโจ้ ล่าข้ามศตวรรษ ภาคที่ 2 playlist",
+             "image": "https://i.ytimg.com/vi/tdrg3NIHMbA/hqdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhYFu4DfKz89pUqS08-sgs3Z"
+            }, 
+            
+            {
+             "name": "โจโจ้ ล่าข้ามศตวรรษ ภาคที่ 1 playlist",
+             "image": "https://i.ytimg.com/vi/Rb1ouIdbTVw/hqdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhZZ6SCcrFzy3qBnerCbcj88"
+            }, 
+            
             ]
 }

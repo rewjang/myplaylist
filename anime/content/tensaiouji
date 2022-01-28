@@ -2,12 +2,31 @@
 "name": "Tensai Ouji no Akaji Kokka Saisei Jutsu บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน!",
 "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
 "stations": [
-                 
+            {
+             "name": "Youtube playlist",
+             "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhaVwvyaJuTMRY4Epn2fjEgO",
+             "playInNatPlayer": "true"
+            }, 
+             
             {
              "name": "EP1",
              "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
-             "url": "https://ok.ru/video/3167876483612",
-             "referer": "https://www.anime-sugoi.com/play/181484/1.html",
+             "url": "https://www.youtube.com/watch?v=9JjJfJ3DJ0c&list=PLIa05JMgYhhaVwvyaJuTMRY4Epn2fjEgO&index=2",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
+             "url": "https://www.youtube.com/watch?v=xjd_b2F-zSU&list=PLIa05JMgYhhaVwvyaJuTMRY4Epn2fjEgO&index=2",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
+             "url": "https://www.youtube.com/watch?v=-UXgQ_L0dIk&list=PLIa05JMgYhhaVwvyaJuTMRY4Epn2fjEgO&index=4",
              "playInNatPlayer": "true"
             },
             

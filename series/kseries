@@ -112,4 +112,13 @@
 },
 
 ]
+
+"stations": [
+            {
+             "name": "Time TO Twice playlist",
+             "image": "https://kpop.youzab.com/wp-content/uploads/2017/05/twice.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLyo6W3g1j4QZ2qB1uRi-x3A0xCcc1w-C1"
+            }, 
+            
+            ]
 }

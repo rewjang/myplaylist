@@ -1,0 +1,14 @@
+{
+"name": "น้องโล่สายแทงก์แกร่งเกินร้อย",
+"image": "https://i.ytimg.com/vi/ZF4-OfboDrk/maxresdefault.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/tank",
+"stations": [
+            {
+             "name": "Youtube playlist",
+             "image": "https://i.ytimg.com/vi/ZF4-OfboDrk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhZtVSS5kJ1BH8ZxuxrU2lT_",
+             "playInNatPlayer": "true"
+            }, 
+            
+            ]
+}

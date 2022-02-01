@@ -2,6 +2,23 @@
 	"name": "avsubthai.me",
 	"image": "https://avsubthai.me/avsubthai.png",
 	"stations": [
+	
+			{
+			    "name": "IPX-691 เจ้านายวิปริต แอบจิตคะน้า Kana Momonogi Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/01/ipx691pl.jpg",  
+			    "url": "https://proxy1-cdn5.cdn9x.com/1t481o4s/index.m3u8",
+			    "referer": "https://avsubthai.me/5564",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "MIDV-021 ภรรยาคนอื่นที่เพิ่งพบกัน คือเด็กคนนั้นที่ฉันเคยสอน Tsubomi Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/01/midv021pl.jpg",  
+			    "url": "https://proxy1-cdn5.cdn9x.com/nc3rfv9/index.m3u8",
+			    "referer": "https://avsubthai.me/5559",
+			    "playInNatPlayer": "true"
+			},
+			
 			{
 			    "name": "HMN-092 ปากพาซวย โดยควยเจ้านาย Amano Aoi Sub TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/01/hmn092pl.jpg",  

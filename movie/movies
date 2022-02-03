@@ -6,6 +6,12 @@
 
 "stations": [
              
+             {
+             "name": "Ghostbusters: Afterlife โกสต์บัสเตอร์: ปลุกพลังล่าท้าผี",
+             "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg/220px-Ghostbusters_-_Afterlife_official_theatrical_poster.jpg", 
+             "url": "https://we-play.live/watching/movie/ghostbusters-afterlife-2021"
+              },
+             
                {
              "name": "Total Recall (2012) คนทะลุโลก",
              "image": "https://037moviefree.com/wp-content/uploads/2021/08/oFxQaOfgLCAgkM7JAgxT6MkXrx2uReN-202x300.jpg", 

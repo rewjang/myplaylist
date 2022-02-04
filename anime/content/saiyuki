@@ -19,5 +19,29 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP3",
+             "image": "https://www.anime-sugoi.com/upload/9e3c64fe6c689aa09e8bc06c2d0f51a7.jpg",
+             "url": "https://vk.com/doc452882829_626287798",
+             "referer": "https://www.anime-sugoi.com/play/181685/3.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://www.anime-sugoi.com/upload/9e3c64fe6c689aa09e8bc06c2d0f51a7.jpg",
+             "url": "https://vk.com/doc452882829_626933377",
+             "referer": "https://www.anime-sugoi.com/play/181871/4.html",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/9e3c64fe6c689aa09e8bc06c2d0f51a7.jpg",
+             "url": "https://vk.com/doc452882829_627622949",
+             "referer": "https://www.anime-sugoi.com/play/182055/5.html",
+             "playInNatPlayer": "true"
+            },
+            
             ]
 }

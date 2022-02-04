@@ -4,6 +4,34 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/dongyi",
 "stations": [
             
+             {
+             "name": "EP52",
+             "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+             "url": "https://www.series24hr.com/video/dong-yi-52/",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP53",
+             "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+             "url": "https://www.series24hr.com/video/dong-yi-53/",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP54",
+             "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+             "url": "https://www.series24hr.com/video/dong-yi-54/",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP55",
+             "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+             "url": "https://www.series24hr.com/video/dong-yi-55/",
+             "playInNatPlayer": "true"
+            },
+            
             {
              "name": "EP56",
              "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
@@ -22,6 +50,20 @@
              "name": "EP58",
              "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
              "url": "https://www.series24hr.com/video/dong-yi-58/",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP59",
+             "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+             "url": "https://www.series24hr.com/video/dong-yi-59/",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP60",
+             "image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+             "url": "https://www.series24hr.com/video/dong-yi-60/",
              "playInNatPlayer": "true"
             },
             

@@ -5,6 +5,14 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/kseries",
 
 "groups": [
+
+{
+"name": "ทงอี",
+"image": "https://www.series24hr.com/wp-content/uploads/2014/10/Dong-Yi.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/dongyi",
+"import": false
+},
+
 {
 "name": "ALL OF US ARE DEAD 2022",
 "image": "https://s359.kapook.com/pagebuilder/2ef0d657-4edf-4dbf-9424-a3b3d3ebd63d.jpg",

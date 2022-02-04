@@ -1,0 +1,51 @@
+{
+"name": "แดจังกึม",
+"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/daejanggeum",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+             "url": "https://ok.ru/video/2263888759333",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+             "url": "https://ok.ru/video/2263888824869",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+             "url": "https://ok.ru/video/2263889087013",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+             "url": "https://ok.ru/video/2263889152549",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+             "url": "https://ok.ru/video/2263889349157",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP6",
+             "image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/07/-e1627701333193.jpg",
+             "url": "https://ok.ru/video/2263889545765",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+            
+}

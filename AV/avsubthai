@@ -2,7 +2,15 @@
 	"name": "avsubthai.me",
 	"image": "https://avsubthai.me/avsubthai.png",
 	"stations": [
-	
+			
+			{
+			    "name": "SSIS-297 หน้ามืดไปหน่อย เด็กมันอ่อยแรง Nanami Ogura Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/ssis297pl.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/qghooipc/index.m3u8",
+			    "referer": "https://avsubthai.me/5567",
+			    "playInNatPlayer": "true"
+			},
+			
 			{
 			    "name": "IPX-691 เจ้านายวิปริต แอบจิตคะน้า Kana Momonogi Sub TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/01/ipx691pl.jpg",  

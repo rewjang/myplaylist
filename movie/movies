@@ -5,6 +5,11 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+              {
+             "name": "ร่างทรง",
+             "image": "https://s359.kapook.com/pagebuilder/d2a72b7b-27d0-4346-b9c1-b488b0f76e2e.jpg", 
+             "url": "https://we-play.live/watching/movie/the-medium-2021"
+              },
              
              {
              "name": "Ghostbusters: Afterlife โกสต์บัสเตอร์: ปลุกพลังล่าท้าผี",

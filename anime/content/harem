@@ -1,0 +1,49 @@
+{
+"name": "Shuumatsu no Harem อวสานฮาเร็มสิ้นโลก",
+"image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/harem",
+"stations": [
+                 
+            {
+             "name": "EP1",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://vk.com/doc452882829_625327302",
+             "referer": "https://www.anime-sugoi.com/play/181464/1.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://vk.com/doc452882829_625764906",
+             "referer": "https://www.anime-sugoi.com/play/181558/2.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://vk.com/doc452882829_626400953",
+             "referer": "https://www.anime-sugoi.com/play/181777/3.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://vk.com/doc452882829_627129235",
+             "referer": "https://www.anime-sugoi.com/play/181927/4.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://vk.com/doc452882829_627838315",
+             "referer": "https://www.anime-sugoi.com/play/182132/5.html",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}
+            

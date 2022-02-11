@@ -2,7 +2,14 @@
 "name": "Kenja no Deshi wo Nanoru Kenja ฉันเป็นศิษย์จอมปราชญ์จริงๆ นะ TH",
 "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
 "stations": [
-                 
+            
+            {
+             "name": "Playlist",
+             "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
+             "url": "https://www.youtube.com/watch?v=9VGPDMWRwEM&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2",
+             "playInNatPlayer": "true"
+            },
+            
             {
              "name": "EP1",
              "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",

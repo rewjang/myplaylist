@@ -158,6 +158,12 @@
 "stations": [
             
             {
+             "name": "สี่แสบฝ่าแดนทมิฬ RELOAD -ZEROIN- playlist",
+             "image": "https://i.ytimg.com/vi/gCnDvgbj3_E/hqdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhbq4sP3hehrgwKdbLdkBcm0"
+            }, 
+            
+            {
              "name": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช playlist",
              "image": "https://i.ytimg.com/vi/MBEIkHfoGlo/hqdefault.jpg",
              "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhYnlxwbeVJi8jzryNq-0ntb"

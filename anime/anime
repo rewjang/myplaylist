@@ -156,6 +156,13 @@
 ],
 
 "stations": [
+            
+            {
+             "name": "โศกนาฏกรรมต่างโลกเริ่มต้นจากเดธมาร์ช playlist",
+             "image": "https://i.ytimg.com/vi/MBEIkHfoGlo/hqdefault.jpg",
+             "url": "https://www.youtube.com/playlist?list=PLIa05JMgYhhYnlxwbeVJi8jzryNq-0ntb"
+            }, 
+             
             {
              "name": "อิโต้จุนจิ คอลเลคชั่น playlist",
              "image": "https://i.ytimg.com/vi/wlcCEJod1SI/maxresdefault.jpg",

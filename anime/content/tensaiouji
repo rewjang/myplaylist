@@ -30,5 +30,19 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP4",
+             "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
+             "url": "https://www.youtube.com/watch?v=xHR7pmmU0_0&list=PLIa05JMgYhhaVwvyaJuTMRY4Epn2fjEgO&index=4",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/3c43e4dfc46385a2490758a6bdfeae68.jpg",
+             "url": "https://www.youtube.com/watch?v=xHR7pmmU0_0&list=PLIa05JMgYhhaVwvyaJuTMRY4Epn2fjEgO&index=5",
+             "playInNatPlayer": "true"
+            },
+            
             ]
 }

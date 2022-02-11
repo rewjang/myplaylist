@@ -129,6 +129,14 @@
              "referer": "https://www.anime-sugoi.com/play/182051/16.html",
              "playInNatPlayer": "true"
             }, 
+            
+            {
+             "name": "EP17",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://vk.com/doc452882829_627622933",
+             "referer": "https://vk.com/doc452882829_628274520",
+             "playInNatPlayer": "true"
+            }, 
      
 ]
 }

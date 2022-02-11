@@ -5,6 +5,13 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+
+              {
+             "name": "Love and Leashes (2022) รักจูงรัก",
+             "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Love-and-Leashes-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B9%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png", 
+             "url": "https://ok.ru/video/3761816209976"
+              },
+              
               {
              "name": "ร่างทรง",
              "image": "https://s359.kapook.com/pagebuilder/d2a72b7b-27d0-4346-b9c1-b488b0f76e2e.jpg", 

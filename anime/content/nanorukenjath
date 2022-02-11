@@ -6,24 +6,35 @@
             {
              "name": "EP1",
              "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
-             "url": "https://ok.ru/video/3168044190236",
-             "referer": "https://www.anime-sugoi.com/play/181495/1.html",
+             "url": "https://www.youtube.com/watch?v=9VGPDMWRwEM&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2&index=1",
              "playInNatPlayer": "true"
             },
             
             {
              "name": "EP2",
              "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
-             "url": "https://ok.ru/video/3185604823580",
-             "referer": "https://www.anime-sugoi.com/play/181658/2.html",
+             "url": "https://www.youtube.com/watch?v=9VGPDMWRwEM&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2&index=2",
              "playInNatPlayer": "true"
             },
             
             {
              "name": "EP3",
              "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
-             "url": "https://ok.ru/video/3203756263964",
-             "referer": "https://www.anime-sugoi.com/play/181841/3.html",
+             "url": "https://www.youtube.com/watch?v=9VGPDMWRwEM&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2&index=3",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP4",
+             "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
+             "url": "https://www.youtube.com/watch?v=9VGPDMWRwEM&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2&index=4",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP5",
+             "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
+             "url": "https://www.youtube.com/watch?v=9VGPDMWRwEM&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2&index=5",
              "playInNatPlayer": "true"
             },
             

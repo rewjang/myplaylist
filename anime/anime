@@ -7,6 +7,27 @@
 "groups": [
 
 {
+"name": "Sword Art Online 4",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/11/Sword-Art-Online-Season-4-Alicization-War-of-Underworld-250x350.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart4",
+"import": false
+},
+
+{
+"name": "Sword Art Online 3",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/11/Sword-Art-Online-Season-3-Alicization-250x350.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart3",
+"import": false
+},
+
+{
+"name": "Sword Art Online 2",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/11/Sword-Art-Online-Season-2-250x350.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart2",
+"import": false
+},
+
+{
 "name": "Sword Art Online 1",
 "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart1",

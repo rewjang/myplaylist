@@ -7,6 +7,13 @@
 "groups": [
 
 {
+"name": "Sword Art Online 1",
+"image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart1",
+"import": false
+},
+
+{
 "name": "Mushoku Tensei Isekai Ittara Honki Dasu เกิดชาตินี้พี่ต้องเทพ",
 "image": "https://www.anime-sugoi.com/upload/f2c12016abfc1017b31546bae6391a47.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/MushokuTenseiIsekai",

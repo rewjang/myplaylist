@@ -1,0 +1,15 @@
+{
+"name": "Sword Art Online 1",
+"image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart1",
+"stations": [
+                 
+            {
+             "name": "EP25",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.anime-sugoi.com/play/81655/25.html",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

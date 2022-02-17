@@ -5,7 +5,13 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
-
+              
+              {
+             "name": "AI Love You เอไอหัวใจโอเวอร์โหลด",
+             "image": "https://we-play.live/uploads/posters/ai-love-you-2022-poster-.jpg", 
+             "url": "https://we-play.live/watching/movie/ai-love-you-2022"
+              },
+              
               {
              "name": "Love and Leashes (2022) รักจูงรัก",
              "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Love-and-Leashes-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B9%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png", 

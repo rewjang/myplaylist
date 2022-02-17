@@ -3,7 +3,35 @@
 "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart1",
 "stations": [
-                 
+            
+            {
+             "name": "EP21",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-21",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP22",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-22",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP23",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-23",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP24",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-24",
+             "playInNatPlayer": "true"
+            },
+            
             {
              "name": "EP25",
              "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",

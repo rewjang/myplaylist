@@ -5,6 +5,27 @@
 "stations": [
             
             {
+             "name": "EP18",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-18",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP19",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-19",
+             "playInNatPlayer": "true"
+            },
+            
+             {
+             "name": "EP20",
+             "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
+             "url": "https://www.123-hd.com/sword-art-online-season-1-ep-20",
+             "playInNatPlayer": "true"
+            },
+            
+            {
              "name": "EP21",
              "image": "https://www.anime-sugoi.com/upload/2089000d0e2e10bfb82bd5038884c6d7.jpg",
              "url": "https://www.123-hd.com/sword-art-online-season-1-ep-21",

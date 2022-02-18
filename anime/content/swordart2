@@ -1,0 +1,22 @@
+{
+"name": "Sword Art Online 2",
+"image": "https://www.123-hd.com/wp-content/uploads/2019/11/Sword-Art-Online-Season-2-250x350.png",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/anime/content/swordart2",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Sword-Art-Online-Season-2-250x350.png",
+             "url": "https://www.123-hd.com/sword-art-online-season-2",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP2",
+             "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Sword-Art-Online-Season-2-250x350.png",
+             "url": "https://www.123-hd.com/sword-art-online-season-2-ep-2",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

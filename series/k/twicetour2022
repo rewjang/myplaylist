@@ -1,0 +1,15 @@
+{
+"name": "TWICE REALITY “TIME TO TWICE” TDOONG Tour 2022",
+"image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+"url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/series/k/twicetour2022",
+"stations": [
+            
+            {
+             "name": "EP1",
+             "image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=Smr_1LfNu0E",
+             "playInNatPlayer": "true"
+            },
+            
+            ]
+}

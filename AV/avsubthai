@@ -4,6 +4,14 @@
 	"stations": [
 			
 			{
+			    "name": "IPX-034 บาปรักรำพัน Minami Aizawa Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/ipx034pl.jpg",  
+			    "url": "https://proxy3-cdn5.cdn9x.com/uv6c8a87/index.m3u8",
+			    "referer": "https://avsubthai.me/5638",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
 			    "name": "IPX-372 แตก 4 Minami Aizawai Sub TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/ipx372pl.jpg",  
 			    "url": "https://proxy3-cdn5.cdn9x.com/rhv5l8nr/index.m3u8",

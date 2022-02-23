@@ -5,7 +5,37 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/movie/movies",
 
 "stations": [
+             
+             {
+             "name": "The Texas Chainsaw Massacre 5",
+             "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-Massacre-2022-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%9A-300x450.png", 
+             "url": "https://www.123-hd.com/texas-chainsaw-massacre"
+              },
               
+              {
+             "name": "Leatherface (2017) สิงหาสับ",
+             "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Leatherface-2017-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%9A-300x450.png", 
+             "url": "https://www.123-hd.com/leatherface"
+              },
+              
+              {
+             "name": "Texas Chainsaw (2013) สิงหาต้องสับ",
+             "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-2013-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%9A..-300x450.png", 
+             "url": "https://www.123-hd.com/texas-chainsaw"
+              },
+              
+              {
+             "name": "The Texas Chainsaw Massacre 2 The Beginning (2006) เปิดตำนานสิงหาสับ",
+             "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2-The-Beginning-300x450.png", 
+             "url": "https://www.123-hd.com/the-texas-chainsaw-massacre-2-the-beginning"
+              },
+              
+              {
+             "name": "The Texas Chainsaw Massacre (2003) ล่อ…มาชำแหละ",
+             "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2003-%E0%B8%A5%E0%B9%88%E0%B8%AD...%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%B0-300x450.png", 
+             "url": "https://www.123-hd.com/the-texas-chainsaw-massacre"
+              },
+             
               {
              "name": "FREE GUY (2021) ขอสักทีพี่จะเป็นฮีโร่",
              "image": "https://youflix4k.com/uploads/cache/poster_thumb_web/uploads/jpg/d98de9aa33d59e817495e2f6290ae666.jpg", 

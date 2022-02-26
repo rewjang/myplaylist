@@ -4,6 +4,30 @@
 	"stations": [
 			
 			{
+			    "name": "STARS-527 ติ้วหมีไม่ฟินส์ขอกินน้องสามี Suzu Honjou Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/261505313_1660979l.jpg",  
+			    "url": "https://proxy3-cdn5.cdn9x.com/hp298ige/index.m3u8",
+			    "referer": "https://avsubthai.me/5651",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "IPX-553 ก้นชวนฝันขยันเอาใจพี่ Yume Nishimiya Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/ipx553pl.jpg",  
+			    "url": "https://proxy1-cdn5.cdn9x.com/987h58kk/index.m3u8",
+			    "referer": "https://avsubthai.me/5648",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "NSPS-880 เห็นเมียโดนปี้ ช่างดีต่อใจ Rinne Touka Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/nsps880sopl.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/oohidd28/index.m3u8",
+			    "referer": "https://avsubthai.me/5645",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
 			    "name": "IPX-034 บาปรักรำพัน Minami Aizawa Sub TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/02/ipx034pl.jpg",  
 			    "url": "https://proxy3-cdn5.cdn9x.com/uv6c8a87/index.m3u8",

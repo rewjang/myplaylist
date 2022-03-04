@@ -52,6 +52,22 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP7",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://psv4.userapi.com/c235031/u452882829/docs/d34/b8930db35422/07.mp4",
+             "referer": "https://www.anime-sugoi.com/play/182497/7.html",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP8",
+             "image": "https://www.anime-sugoi.com/upload/47690bed8a9e2b8a8408e9976a4774f6.jpg",
+             "url": "https://psv4.userapi.com/c534536/u452882829/docs/d20/7f45bf1ba2dc/8.mp4",
+             "referer": "https://www.anime-sugoi.com/play/182690/8.html",
+             "playInNatPlayer": "true"
+            },
+            
             ]
 }
             

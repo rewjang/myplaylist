@@ -153,6 +153,14 @@
              "referer": "https://www.anime-sugoi.com/play/182587/19.html",
              "playInNatPlayer": "true"
             }, 
+            
+            {
+             "name": "EP20",
+             "image": "https://www.anime-sugoi.com/upload/f212207ca33ca5ebd5f6e9c10d11572f.jpg",
+             "url": "https://psv4.userapi.com/c534536/u452882829/docs/d34/13d50a8c5adb/20.mp4",
+             "referer": "https://www.anime-sugoi.com/play/182754/20.html",
+             "playInNatPlayer": "true"
+            }, 
      
 ]
 }

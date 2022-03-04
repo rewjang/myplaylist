@@ -59,5 +59,12 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP8",
+             "image": "https://www.anime-sugoi.com/upload/638fc913bb956585cec89271e7b9c5c3.jpg",
+             "url": "https://www.youtube.com/watch?v=1Xty5PfPrps&list=PLIa05JMgYhhZRVFL2_F_-HbhTnTZzm2U2&index=8",
+             "playInNatPlayer": "true"
+            },
+            
             ]
 }

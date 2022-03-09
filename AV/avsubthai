@@ -4,6 +4,14 @@
 	"stations": [
 			
 			{
+			    "name": "ABW-062 ซูซูมุระซัง …แกล้งนัก รักนะ รู้ยัง… Airi Suzumura Sub TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/03/118abw062pl.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/245b62oa/index.m3u8",
+			    "referer": "https://avsubthai.me/5681",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
 			    "name": "SSIS-109 ตีมึนล่อคุณพ่ออัลไซเมอร์ Tsubaki Sannomiya Sub TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/03/ssis109pl.jpg",  
 			    "url": "https://proxy1-cdn5.cdn9x.com/1cnifqbb/index.m3u8",

@@ -11,5 +11,26 @@
              "playInNatPlayer": "true"
             },
             
+            {
+             "name": "EP2",
+             "image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=OZOBTUoPafE",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP3",
+             "image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=cDzDBNXmu5s",
+             "playInNatPlayer": "true"
+            },
+            
+            {
+             "name": "EP4",
+             "image": "https://i.ytimg.com/vi/96eldR2DdQk/maxresdefault.jpg",
+             "url": "https://www.youtube.com/watch?v=xX64CUG8Bp8",
+             "playInNatPlayer": "true"
+            },
+            
             ]
 }

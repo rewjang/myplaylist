@@ -4,6 +4,22 @@
 	"stations": [
 			
 			{
+			    "name": "SDAB-110 โรงแรมสุดหรูเย็ดอีหนู 7 ชั่วโมง Rei Kuruki TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/03/1sdab110pl.jpg",  
+			    "url": "https://proxy3-cdn5.cdn9x.com/gqf9fnu0/index.m3u8",
+			    "referer": "https://avsubthai.me/5711",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "SSNI-834 เซ็กส์เร้าร้อนซ่อนพายุคลั่ง Hiyori Yoshioka TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/03/ssni834pl.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/q06qbqp4/index.m3u8",
+			    "referer": "https://avsubthai.me/5708",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
 			    "name": "SSIS-195 ผสมปนเปน้ำเยนองหน้า Jun Kousui TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/03/ssis195pl.jpg",  
 			    "url": "https://proxy3-cdn5.cdn9x.com/uqta05u5/index.m3u8",

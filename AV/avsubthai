@@ -3,6 +3,21 @@
 	"image": "https://avsubthai.me/avsubthai.png",
 	"stations": [
 			
+			{
+			    "name": "IPX-753 แฟนน้องมีหนาวพี่สาวลิ้นเทพ Miu Shiromine TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/ipx753pl.jpg",  
+			    "url": "https://proxy3-cdn5.cdn9x.com/d9ubkv35/index.m3u8",
+			    "referer": "https://avsubthai.me/5891",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "ABP-565 สอยน้องต้องสตรองนะ Airi Suzumura TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/118abp565pl.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/dimq7er5/index.m3u8",
+			    "referer": "https://avsubthai.me/5888",
+			    "playInNatPlayer": "true"
+			},
 			
 			{
 			    "name": "MIAE-239 Aphrodisiac อยากได้ต้องป้ายยา Akari Mitani TH",  

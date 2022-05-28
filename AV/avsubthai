@@ -4,6 +4,46 @@
 	"stations": [
 			
 			{
+			    "name": "BGN-054 Newcomer เปิดเลนส์ใสๆคว้าหัวใจยัยอินโนเซนท์ Remu Suzumori TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/118bgn054pl.jpg",  
+			    "url": "https://proxy3-cdn5.cdn9x.com/at5ju8el/index.m3u8",
+			    "referer": "https://avsubthai.me/5967",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "STAR-605 พี่สาวสุดแซ่บ ภาค 1 Iori Kogawa TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/1star605pl.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/7mgjkimm/index.m3u8",
+			    "referer": "https://avsubthai.me/5964",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "RBD-805 Slave Color บรรษัทอสูร Saeko Matsushita TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/rbd805pl.jpg",  
+			    "url": "https://proxy1-cdn5.cdn9x.com/gt2jtglp/index.m3u8",
+			    "referer": "https://avsubthai.me/5961",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "SIRO-3759 ตรงปกกระดกหมดหลอด Remu Suzumori TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/SIRO-3759.jpg",  
+			    "url": "https://proxy2-cdn5.cdn9x.com/ue9fpnrm/index.m3u8",
+			    "referer": "https://avsubthai.me/5955",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
+			    "name": "ADN-118 Forgive ซีรี่ย์…ที่รักยกโทษให้ฉันด้วย ตอน เสียรู้ทนายบ้ากาม Jessica Kizaki TH",  
+			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/adn00118bodpl.jpg",  
+			    "url": "https://proxy1-cdn5.cdn9x.com/5ij6n0bt/index.m3u8",
+			    "referer": "https://avsubthai.me/5952",
+			    "playInNatPlayer": "true"
+			},
+			
+			{
 			    "name": "ADN-383 ติดใจแน่คุณแม่ยืมเสียว Yu Shinoda TH",  
 			    "image": "https://avsubthai.me/wp-content/uploads/2022/05/adn383pl.jpg",  
 			    "url": "https://proxy1-cdn5.cdn9x.com/jn1srfap/index.m3u8",

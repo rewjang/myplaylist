@@ -11,6 +11,15 @@
 "referer": "https://www.topnews.co.th/",
 "playInNatPlayer": "true"
 },
+
+
+"name": "Topnews 3bb",
+"image": "https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",              
+"url": "https://cnt2-streamer17.cdn.3bbtv.com:8443/3bb/live/77/77.mpd",
+"referer": "https://www.topnews.co.th/",
+"playInNatPlayer": "true"
+},
+
             {
 "name": "ททบ.5",  
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",

@@ -7,6 +7,12 @@
 "stations": [
              
              {
+             "name": "Choose or Die (2022) เลือกหรือตาย",
+             "image": "https://image.tmdb.org/t/p/w185/rEHZjZmpcQF2Z9tJfWuPNZzof8j.jpg", 
+             "url": "https://m-fixer.com/movies/choose-or-die-2022/"
+              },
+             
+             {
              "name": "JOLT สวย แรง สูง",
              "image": "https://we-play.live/uploads/posters/jolt-2021-poster-.jpg", 
              "url": "https://we-play.live/watching/movie/jolt-2021"

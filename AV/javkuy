@@ -4,6 +4,13 @@
 "url": "https://raw.githubusercontent.com/rewjang/myplaylist/main/AV/javkuy",
 "stations": [
 			
+			{
+			    "name": "DASS-001 รักสบายเจ้านายขึ้นควบ Sumire Mizukawa TH",  
+			    "image": "https://javkuy.net/wp-content/uploads/2022/05/DASS-001.jpg",  
+			    "url": "https://javkuy.net/subthai-dass-001/",
+			    "subtitle": "https://pastebin.com/Ge0Q2dmU",
+			    "playInNatPlayer": "true"
+			},
 			
 			{
 			    "name": "EBOD-855 อากาศมันอ้าวไอ้ต้าวโนตม Riho Takahashi TH",  

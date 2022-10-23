@@ -22,6 +22,14 @@
 },
 
 {
+"name"          :  "live สำรอง2",
+"image"          :  "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "live 2",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.123-hd.com/tv?ver=tv_vie&id=39",
@@ -34,6 +42,14 @@
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.doofootball.com/live/streaming/epl2/877580",
 "referer": "https://www.123-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name"          :  "live 2 สำรอง2",
+"image"          :  "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
 "playInNatPlayer": "true"
 },
 
@@ -54,6 +70,14 @@
 },
 
 {
+"name"          :  "live 3 สำรอง2",
+"image"          :  "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "live 4",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.123-hd.com/tv?ver=tv_vie&id=43",
@@ -70,10 +94,26 @@
 },
 
 {
+"name"          :  "live 4 สำรอง2",
+"image"          :  "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "live 5",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.123-hd.com/tv?ver=tv_vie&id=45",
 "referer": "https://www.123-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name"          :  "live 5 สำรอง2",
+"image"          :  "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",
+"url"            :  "https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8",
+"referer"        :  "https://streaming.livescorethai.net/",
 "playInNatPlayer": "true"
 },
 

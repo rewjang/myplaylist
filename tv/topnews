@@ -30,6 +30,14 @@
 },
 
 {
+"name": "live 2 สำรอง",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
+"url": "https://www.doofootball.com/live/streaming/epl2/877580",
+"referer": "https://www.123-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "live 3",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.123-hd.com/tv?ver=tv_vie&id=41",
@@ -38,9 +46,25 @@
 },
 
 {
+"name": "live 3 สำรอง",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
+"url": "https://www.doofootball.com/live/streaming/epl3/877581",
+"referer": "https://www.123-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "live 4",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.123-hd.com/tv?ver=tv_vie&id=43",
+"referer": "https://www.123-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "live 4 สำรอง",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
+"url": "https://www.doofootball.com/live/streaming/epl4/877578",
 "referer": "https://www.123-hd.com/",
 "playInNatPlayer": "true"
 },

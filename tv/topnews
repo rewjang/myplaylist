@@ -6,6 +6,14 @@
 "stations": [
 
 {
+"name": "bein1",
+"image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
+"url": "https://www.doofootball.com/live/streaming/bein1/886994",
+"referer": "https://www.123-hd.com/",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "live",
 "image": "https://sv1.picz.in.th/images/2021/02/02/odA61W.jpg",              
 "url": "https://www.123-hd.com/tv?ver=tv_vie&id=37",

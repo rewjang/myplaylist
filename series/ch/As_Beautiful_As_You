@@ -1,0 +1,21 @@
+{
+   "name": "เธอผู้เปล่งประกายกว่าแสงดาว",
+   "author": "เธอผู้เปล่งประกายกว่าแสงดาว",
+   "image": "https://www.123-hd.com/wp-content/uploads/2020/05/And-The-Winner-Is-Love-300x450.png",
+   "stations": [
+     { 
+       "name": "EP1 1080P",
+       "image": "https://www.123-hd.com/wp-content/uploads/2020/05/And-The-Winner-Is-Love-300x450.png", 
+       "url": "https://xxx.77player.xyz/hls/654c31615ea6aa99d62b79f91fd5f09f/654c31615ea6aa99d62b79f91fd5f09f.m3u8",
+       "playInNatPlayer": "true" 
+      }, 
+
+     { 
+       "name": "EP2 1080P",
+       "image": "https://www.123-hd.com/wp-content/uploads/2020/05/And-The-Winner-Is-Love-300x450.png", 
+       "url": "https://xxx.77player.xyz/hls/3f65046ea85fb85612a7e1194c7b8ca6/3f65046ea85fb85612a7e1194c7b8ca6.m3u8",
+       "playInNatPlayer": "true" 
+      },
+
+    ]
+}

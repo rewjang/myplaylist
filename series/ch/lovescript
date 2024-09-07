@@ -1,0 +1,175 @@
+{
+   "name": "Love Script (2020) รักนี้(ไม่)มีสคริปต์",
+   "author": "Love Script (2020) รักนี้(ไม่)มีสคริปต์",
+   "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png",
+   "stations": [
+     { 
+       "name": "EP1",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png",  
+       "url": "https://www.123-hd.com/love-script",
+       "playInNatPlayer": "true" 
+      }, 
+
+     { 
+       "name": "EP2",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-2",
+       "playInNatPlayer": "true" 
+      }, 
+
+      { 
+       "name": "EP3",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-3",
+       "playInNatPlayer": "true" 
+      }, 
+
+      { 
+       "name": "EP4",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-4",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP5",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-5",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP6",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-6",
+       "playInNatPlayer": "true" 
+      },
+      
+      { 
+       "name": "EP7",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-7",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP8",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-8",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP9",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-9",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP10",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-10",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP11",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-11",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP12",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-12",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP13",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-13",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP14",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-14",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP15",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-15",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP16",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-16",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP17",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-17",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP18",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-18",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP19",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-19",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP20",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-20",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP21",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-21",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP22",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-22",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP23",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-23",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP24",
+       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Love-Script-300x450.png", 
+       "url": "https://www.123-hd.com/love-script-ep-24",
+       "playInNatPlayer": "true" 
+      },
+
+    ]
+}

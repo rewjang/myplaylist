@@ -1,0 +1,57 @@
+{
+   "name": "The Last of Us Season 2 (2025)",
+   "author": "The Last of Us Season 2 (2025)",
+   "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg",
+   "stations": [
+     { 
+       "name": "EP1",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg",  
+       "url": "https://www.123-hd.com/the-last-of-us-season-2",
+       "playInNatPlayer": "true" 
+      }, 
+
+     { 
+       "name": "EP2",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg", 
+       "url": "https://www.123-hd.com/the-last-of-us-season-2-ep-2",
+       "playInNatPlayer": "true" 
+      }, 
+
+      { 
+       "name": "EP3",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg", 
+       "url": "https://www.123-hd.com/the-last-of-us-season-2-ep-3",
+       "playInNatPlayer": "true" 
+      }, 
+
+      { 
+       "name": "EP4",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg", 
+       "url": "https://www.123-hd.com/the-last-of-us-season-2-ep-4",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP5",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg", 
+       "url": "https://www.123-hd.com/the-last-of-us-season-2-ep-5",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP6",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg", 
+       "url": "https://www.123-hd.com/the-last-of-us-season-2-ep-6",
+       "playInNatPlayer": "true" 
+      },
+      
+      { 
+       "name": "EP7",
+       "image": "https://www.123-hd.com/wp-content/uploads/2025/04/The-Last-of-Us-Season-2-2025-300x450.jpg", 
+       "url": "https://www.123-hd.com/the-last-of-us-season-2-ep-7",
+       "playInNatPlayer": "true" 
+      },
+
+
+    ]
+}

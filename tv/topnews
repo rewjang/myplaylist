@@ -552,7 +552,7 @@ playInNatPlayer": "true"
       "playInNatPlayer": true
     },
     {
-      "name": "Monomax1-C",
+      "name": "Monomax1-andaman",
       "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8",
       "referer": "https://www.andaman888th.net/",
@@ -584,6 +584,13 @@ playInNatPlayer": "true"
       "playInNatPlayer": true
     },
     {
+      "name": "Monomax2-andaman",
+      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax2/playlist.m3u8",
+      "referer": "https://www.andaman888th.net/",
+      "playInNatPlayer": true
+    },
+    {
       "name": "Monomax3-A",
       "logo": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
       "url": "https://dookeela2.live/live-tv/ais-monomax-3",
@@ -600,6 +607,13 @@ playInNatPlayer": "true"
       "logo": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
       "url": "https://cdn1.googlecdnforstreaming.live/live/ais-monomax-3/chunks.m3u8",
       "referer": "https://warpdooball.net/",
+      "playInNatPlayer": true
+    },
+    {
+      "name": "Monomax3-andaman",
+      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax3/playlist.m3u8",
+      "referer": "https://www.andaman888th.net/",
       "playInNatPlayer": true
     },
     {
@@ -621,6 +635,13 @@ playInNatPlayer": "true"
       "referer": "https://warpdooball.net/",
       "playInNatPlayer": true
     }
+    {
+      "name": "Monomax4-andaman",
+      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8",
+      "referer": "https://www.andaman888th.net/",
+      "playInNatPlayer": true
+    },
 
 
 

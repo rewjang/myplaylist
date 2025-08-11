@@ -545,103 +545,103 @@ playInNatPlayer": "true"
 "playInNatPlayer": "true"
 },
 
-    {
+{
       "name": "Monomax1-B",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://goal-th.com/dum/?id=606&tv=Monomax1",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax1-andaman",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "image"": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8",
       "referer": "https://www.andaman888th.net/",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax1-D",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
       "referer": "https://warpdooball.net/",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax1-E",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://www.bal124.tv/allchannel/?id=monomax1",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax2-A",
-      "logo": "https://cdn.imgchest.com/files/y2pckda8b37.png",
+      "image": "https://cdn.imgchest.com/files/y2pckda8b37.png",
       "url": "https://www.ball24.tv/allchannel/?id=monomax2",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax2-B",
-      "logo": "https://cdn.imgchest.com/files/y2pckda8b37.png",
+      "image": "https://cdn.imgchest.com/files/y2pckda8b37.png",
       "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax2-andaman",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax2/playlist.m3u8",
       "referer": "https://www.andaman888th.net/",
       "playInNatPlayer": true
-    },
-    {
-      "name": "Monomax3-A",
-      "logo": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
+},
+{
+      "name": "Monomax3-Dookeela",
+      "image": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
       "url": "https://dookeela2.live/live-tv/ais-monomax-3",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax3-B",
-      "logo": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
+      "image": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
       "url": "https://goal-th.com/um/?id=607&tv=Monomax3wwn3",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax3-C",
-      "logo": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
+      "image": "https://cdn.imgchest.com/files/71xcpr3obw7.png",
       "url": "https://cdn1.googlecdnforstreaming.live/live/ais-monomax-3/chunks.m3u8",
       "referer": "https://warpdooball.net/",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax3-andaman",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax3/playlist.m3u8",
       "referer": "https://www.andaman888th.net/",
       "playInNatPlayer": true
-    },
-    {
-      "name": "Monomax4-A",
-      "logo": "https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
+},
+{
+      "name": "Monomax4-Dookela",
+      "image": "https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
       "url": "https://dookeela2.live/live-tv/ais-monomax-4",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax4-B",
-      "logo": "https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
+      "image"": "https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
       "url": "https://goal-th.com/summ/?id=608&tv=Monomax4in64",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax4-C",
-      "logo": "https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
+      "image": "https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
       "url": "https://cdn1.googlecdnforstreaming.live/live/ais-monomax-4/chunks.m3u8",
       "referer": "https://warpdooball.net/",
       "playInNatPlayer": true
-    },
-    {
+},
+{
       "name": "Monomax4-andaman",
-      "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
-      "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8",
+      "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+      "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax4/playlist.m3u8",
       "referer": "https://www.andaman888th.net/",
       "playInNatPlayer": true
-    },
+},
 
 ]
 }

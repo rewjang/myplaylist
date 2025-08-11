@@ -634,17 +634,14 @@ playInNatPlayer": "true"
       "url": "https://cdn1.googlecdnforstreaming.live/live/ais-monomax-4/chunks.m3u8",
       "referer": "https://warpdooball.net/",
       "playInNatPlayer": true
-    }
+    },
     {
       "name": "Monomax4-andaman",
       "logo": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
       "url": "https://cdnsv1.bunnycdncloud.com/andaman888th/monomax1/playlist.m3u8",
       "referer": "https://www.andaman888th.net/",
       "playInNatPlayer": true
-    },
-
-
-
+    }
 
 
 ]

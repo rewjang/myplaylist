@@ -1,0 +1,260 @@
+{
+   "name": "Dream of Golden Years (2026) ยุคทองของคนมีฝัน",
+   "author": "Dream of Golden Years (2026) ยุคทองของคนมีฝัน",
+   "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg",
+   "stations": [
+     { 
+       "name": "EP1",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg",  
+       "url": "https://www.123-hds.com/dream-of-golden-years",
+       "playInNatPlayer": "true" 
+      }, 
+
+     { 
+       "name": "EP2",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-2",
+       "playInNatPlayer": "true" 
+      }, 
+
+      { 
+       "name": "EP3",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-3",
+       "playInNatPlayer": "true" 
+      }, 
+
+      { 
+       "name": "EP4",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-4",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP5",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-5",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP6",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-6",
+       "playInNatPlayer": "true" 
+      },
+      
+      { 
+       "name": "EP7",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-7",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP8",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-8",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP9",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-9",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP10",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-10",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP11",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-11",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP12",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-12",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP13",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-13",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP14",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-14",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP15",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-15",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP16",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-16",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP17",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-17",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP18",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-18",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP19",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-19",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP20",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-20",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP21",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-21",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP22",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-22",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP23",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-23",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP24",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-24",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP25",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-25",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP26",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-26",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP27",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-27",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP28",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-28",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP29",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-29",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP30",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-30",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP31",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-31",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP32",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-32",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP33",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-33",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP34",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-34",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP35",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-35",
+       "playInNatPlayer": "true" 
+      },
+
+      { 
+       "name": "EP36",
+       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Dream-of-Golden-Years-2026-%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%B1%E0%B8%99.jpg", 
+       "url": "https://www.123-hds.com/dream-of-golden-years-ep-36",
+       "playInNatPlayer": "true" 
+      },
+	  
+	  
+    ]
+}
